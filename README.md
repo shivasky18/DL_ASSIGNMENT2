@@ -1,5 +1,5 @@
 # DL_ASSIGNMENT2
-# 🔤 Latin to Devanagari Transliteration using Seq2Seq (RNN / LSTM / GRU)
+# 🔤 Latin to Devanagari Transliteration using Seq2Seq (RNN / LSTM / GRU) AND GPT-2 Text Generation on Song Lyrics (Kanye West & Michael Jackson)
 
 This project implements a flexible **sequence-to-sequence model** to transliterate words written in Latin script into Devanagari script using PyTorch. You can choose between RNN, LSTM, or GRU-based encoder-decoder architectures.
 
