@@ -43,7 +43,7 @@ Latin: ankit → Predicted Devanagari: अंकित | Actual: अंकित
 ...
 
 
-# GPT-2 Text Generation on Song Lyrics (Kanye West & Michael Jackson)
+# 🔤 GPT-2 Text Generation on Song Lyrics (Kanye West & Michael Jackson)
 
 This project demonstrates the use of GPT-2, a transformer-based language model, to generate text based on song lyrics of selected artists (Kanye West & Michael Jackson). The script tokenizes the lyrics, preprocesses the data, and fine-tunes the GPT-2 model for text generation.
 
